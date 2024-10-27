@@ -23,8 +23,8 @@ To get started with this project, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/backend-fastapi.git
-cd backend-fastapi
+https://github.com/psychpsych/cold-hard-facts-backend
+cd cold-hard-facts-backend
 ```
 
 ### 2. Create and activate a virtual environment
