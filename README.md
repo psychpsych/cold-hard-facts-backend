@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-https://github.com/psychpsych/cold-hard-facts-backend
+git clone https://github.com/psychpsych/cold-hard-facts-backend
 cd cold-hard-facts-backend
 ```
 
